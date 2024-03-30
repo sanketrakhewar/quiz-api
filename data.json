@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "option1": "London",
+    "option2": "Berlin",
+    "option3": "Paris",
+    "option4": "Rome",
+    "ans": 3
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "option1": "Mount Everest",
+    "option2": "K2",
+    "option3": "Kangchenjunga",
+    "option4": "Lhotse",
+    "ans": 1
+  },
+  {
+    "question": "In which year did the first flight of the Wright Brothers take place?",
+    "option1": "1900",
+    "option2": "1903",
+    "option3": "1906",
+    "option4": "1909",
+    "ans": 2
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "option1": "H2O",
+    "option2": "CO2",
+    "option3": "NH3",
+    "option4": "NaCl",
+    "ans": 1
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "option1": "Euro",
+    "option2": "Dollar",
+    "option3": "Yen",
+    "option4": "Yuan",
+    "ans": 3
+  }
+]
