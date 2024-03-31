@@ -1,7 +1,7 @@
 {
-  "name": "questionsapi",
+  "name": "quizapi",
   "version": "1.0.0",
-  "description": "Questions Api",
+  "description": "Quiz Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
