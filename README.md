@@ -6,7 +6,7 @@
 <h2>Endpoints</h2>
 <h2>Deployment</h2>
 
-<p>This API is deployed on <strong>Cyclic.</strong><span><h4><a href="https://puce-joyous-mite.cyclic.app/">Live API</a></h4></span></p>
+<p>This API is deployed on <strong>Cyclic.</strong><span><h4><a href="https://quiz1-api.cyclic.app/">Live API</a></h4></span></p>
 
 <h2>Built With</h2>
 
